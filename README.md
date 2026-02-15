@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-**Project Title**: Retail Sales Analysi 
+**Project Title**: Retail Sales Analysis 
 **Level**: Beginner  
 **Database**: `p1_retail_db`
 
@@ -214,5 +214,6 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 ## Author - Rishabh bhatt
 
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
+
 
 
